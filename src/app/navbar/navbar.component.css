@@ -1,0 +1,9 @@
+nav-link:hover,
+.nav-link:active{
+    font-weight: bold;
+    color: rgba(126, 175, 187, 0.849);
+
+}
+.btn:hover{
+    background-color: rgba(126, 175, 187, 0.849);
+}
